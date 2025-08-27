@@ -92,55 +92,7 @@ Paralelamente a mi labor,me he ofrecido a dar **tutorías** a distintos semestre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin: 0 10px;"/>
 </p>
 
-## 📺 Alguno de mis Videos en YouTube
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Desarrollando una API REST con Spring Boot](https://ytcards.demolab.com/?id=3RKWGMjbJR4&title=Desarrollando+una+API+REST+con+Spring+Boot&lang=es&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "Desarrollando una API REST con Spring Boot")](https://youtu.be/3RKWGMjbJR4?si=yFxKxbmQIieiksdt)
-[![Desarrollo Web con Angular y Spring Boot](https://ytcards.demolab.com/?id=_0lhVKp4VZs&title=Desarrollo+Web+con+Angular+y+Spring+Boot&lang=es&timestamp=1750868400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=851 "Desarrollo Web con Angular y Spring Boot")](https://youtu.be/_0lhVKp4VZs?si=VJ9oJGxN3WJx1d5T)
-[![Microservicios con Spring Cloud](https://ytcards.demolab.com/?id=OmAhz54UuFo&title=Microservicios+con+Spring+Cloud&lang=es&timestamp=1750462931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41 "Microservicios con Spring Cloud")](https://youtu.be/OmAhz54UuFo?si=bnradVLPVDjj5BZc)
-[![Autenticación JWT con Spring Security](https://ytcards.demolab.com/?id=UEzArbU7q7o&title=Autenticación+JWT+con+Spring+Security&lang=es&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=902 "Autenticación JWT con Spring Security")](https://youtu.be/UEzArbU7q7o?si=mi4AoMC_NKEMU3NN)
-[![Desplegando en AWS con Docker](https://ytcards.demolab.com/?id=4Wa743X4MbI&title=Desplegando+en+AWS+con+Docker&lang=es&timestamp=1749744375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=630 "Desplegando en AWS con Docker")](https://youtu.be/4Wa743X4MbI?si=PXYqbn3zXsmFyYRX)
-[![Patrones de Diseño en Java](https://ytcards.demolab.com/?id=8ZAz7p9DpIU&title=Patrones+de+Diseño+en+Java&lang=es&timestamp=1749052814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "Patrones de Diseño en Java")](https://youtu.be/8ZAz7p9DpIU?si=Q6BYwQM7g16EdTFc)
-<!-- END YOUTUBE-CARDS -->
-## 📺 Algunas de mis publicaciones en LinkedIn
-
-<table align="center">
-<tr border="none">
-  
-  <!-- Publicación 1 -->
-  <td width="37%" align="center">
-    <p align="center">
-     <a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_backend-api-java-activity-7321751459241287680-7DJq" title="Ver publicación" target="_blank">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/a6868688-4b6c-4fe5-9027-ef6e38aada3b" alt="API Spring Boot" /></a>
-    </p>
-    <p align="center">
-        <a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_backend-api-java-activity-7321751459241287680-7DJq" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    </p>       
-  </td>
-  
-  <!-- Publicación 2 -->
-  <td width="30%" align="center">
-    <p align="center">
-     <a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_springsecurity-jwt-backend-activity-7352033249302310913-7IFo" title="Ver publicación" target="_blank">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/4eb100d1-2939-4476-9d1e-a88947d18c17" alt="Spring Security JWT" /></a>
-    </p>
-    <p align="center">
-        <a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_springsecurity-jwt-backend-activity-7352033249302310913-7IFo" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    </p>       
-  </td>
-  
-  <!-- Publicación 3 -->
-  <td width="40%" align="center">
-    <p align="center">
-     <a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_jwt-backend-spring-activity-7327604826983309312-Ov8G" title="Ver publicación" target="_blank">
-        <img align="center" width=100% src="https://github.com/user-attachments/assets/fa1ae5e3-a6f8-40ef-bf36-48363283d8e6" alt="JWT con Spring" /></a>
-    </p>
-    <p align="center">
-        <a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_jwt-backend-spring-activity-7327604826983309312-Ov8G" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    </p>       
-  </td>
-</tr>
-</table>
 ## 📊 Estadísticas
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical)
