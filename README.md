@@ -1,6 +1,14 @@
 Star this repo23332
 Fork on GitHub7918
-<h1 align="center">Hi 👋, I'm Brando Cervantes C.</h1>
+<h1 align="center">Hola 👋, Soy Brando Cervantes C.</h1>
+Network Engineer
+
+Desarrollador de software especializado en redes y ciberseguridad
+
+Soy estudiante de Ingeniería Telemática en la Unidad de Tecnologías Avanzadas del Instituto Politécnico Nacional, una carrera que integra áreas de redes, telecomunicaciones, programación y seguridad informática.
+
+Desde hace 2 años trabajo como freelance en proyectos de redes y ciberseguridad, colaborando con distintos equipos en la implementación de infraestructuras LAN/WAN, despliegue de entornos seguros y automatización de procesos de red mediante software.
+
 - 🔭 I’m currently working on **Network Automation**
 
 - 💬 Ask me about **CCNA Cisco Networking**
