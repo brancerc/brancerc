@@ -1,13 +1,29 @@
-Star this repo23332
-Fork on GitHub7918
-<h1 align="center">Hola 👋, Soy Brando Cervantes C.</h1>
-Network Engineer
+# 💼 **Network Engineer**  
+**Desarrollador de software especializado en redes y ciberseguridad**
 
-Desarrollador de software especializado en redes y ciberseguridad
+---
 
-Soy estudiante de Ingeniería Telemática en la Unidad de Tecnologías Avanzadas del Instituto Politécnico Nacional, una carrera que integra áreas de redes, telecomunicaciones, programación y seguridad informática.
+## 👨‍🎓 **About Me**  
+Soy estudiante de **Ingeniería Telemática** en la **Unidad de Tecnologías Avanzadas del Instituto Politécnico Nacional**, una carrera que combina **redes, telecomunicaciones, programación y seguridad informática**.  
 
-Desde hace 2 años trabajo como freelance en proyectos de redes y ciberseguridad, colaborando con distintos equipos en la implementación de infraestructuras LAN/WAN, despliegue de entornos seguros y automatización de procesos de red mediante software.
+Desde hace **2 años** trabajo como **freelance en proyectos de redes y ciberseguridad**, colaborando con distintos equipos en:  
+- Implementación de infraestructuras LAN/WAN  
+- Despliegue de entornos seguros  
+- Automatización de procesos de red mediante software  
+
+---
+
+## ⚙️ **Tech Stack**  
+
+**Redes y Ciberseguridad**  
+- 🌐 LAN / WAN / Wireless  
+- 📡 Protocolos de enrutamiento y switching: **OSPF, EIGRP, STP, VLANs, EtherChannel**  
+- 🔒 Seguridad: **Firewalls, ACLs, VPNs, SNMP, auditorías y hardening**  
+
+**Desarrollo de Software aplicado a Redes**  
+- 🐍 **Python** y **Bash** para automatización  
+- ⚡ **APIs REST** para gestión de infraestructuras  
+- 🖥️ Simulación y despliegue de topologías con **Cisco Packet Tracer, GNS3 y Docker**  
 
 - 🔭 I’m currently working on **Network Automation**
 
