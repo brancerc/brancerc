@@ -25,7 +25,7 @@ Desde hace **2 años** trabajo como **freelance en proyectos de redes y ciberseg
 - ⚡ **APIs REST** para gestión de infraestructuras  
 - 🖥️ Simulación y despliegue de topologías con **Cisco Packet Tracer, GNS3 y Docker**  
 
-- 🔭 I’m currently working on **Network Automation**
+- 🔭 Estoy trabajando en **Network Automation**
 
 - 💬 Ask me about **CCNA Cisco Networking**
 
