@@ -1,4 +1,4 @@
-# 💼 **Network Engineer**  
+# 📡 **Network Engineer**  
 **Desarrollador de software especializado en redes y ciberseguridad**
 
 ---
